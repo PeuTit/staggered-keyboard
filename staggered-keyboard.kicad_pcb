@@ -185,7 +185,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 0192c715-d303-4bea-b24c-545321d50bce)
-    (at 170.5775 67.18625)
+    (at 167.48125 165.89375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -286,7 +286,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 0b5ee122-70bc-4605-98ad-b285f62f8671)
-    (at 60.42125 102.5315)
+    (at 315.9125 182.5625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -387,7 +387,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 0cf36b18-cf52-4f3a-afe6-f7ed5540c796)
-    (at 54.67125 115.9315)
+    (at 321.46875 143.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -437,7 +437,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 0ff4fb38-6c10-41f3-a1bf-7fe59ffcef03)
-    (at 43.17125 112.5815)
+    (at 357.1875 170.65625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -487,7 +487,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 11b54af2-cedf-47a2-bbe3-e8d5f927daa6)
-    (at 77.67125 102.5315)
+    (at 241.3 183.35625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -537,7 +537,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 12b0a2e0-0ea9-4bef-8a6c-8a155c2c2157)
-    (at 170.5775 70.53625)
+    (at 213.51875 223.04375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -587,7 +587,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 1745186a-3c69-403f-935b-14a61e275dd0)
-    (at 48.92125 115.9315)
+    (at 305.59375 201.6125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -637,7 +637,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 1a7f656a-30a4-4d62-b4ff-7cd7d80caeb5)
-    (at 60.42125 112.5815)
+    (at 264.25625 143.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -687,7 +687,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 1b4ea365-a7af-429e-82a9-d16990a0e7b5)
-    (at 31.67125 102.5315)
+    (at 250.825 200.025)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -737,7 +737,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 1ca0f5d9-cef6-42ab-839f-bbbee0901a86)
-    (at 164.8275 77.23625)
+    (at 221.51875 181.76875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -889,7 +889,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 20d24f37-9c90-4782-b1bf-ae5bc186a80a)
-    (at 48.92125 102.5315)
+    (at 312.7375 163.5125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1234,7 +1234,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 31a6cbb5-431c-48aa-88b3-06cb7c978d8a)
-    (at 83.42125 102.5315)
+    (at 215.10625 162.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1284,7 +1284,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 3401164a-d1f1-4907-998f-10265b15277b)
-    (at 48.92125 109.2315)
+    (at 154.78125 200.81875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1385,7 +1385,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 34624a6b-3188-420d-b2b6-19c1d612bb79)
-    (at 77.67125 105.8815)
+    (at 254 161.925)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1435,7 +1435,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 348cee18-efac-4832-99d9-1a536baf919c)
-    (at 25.92125 109.2315)
+    (at 274.6375 163.5125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1485,7 +1485,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 36ad5611-3d04-4fa5-9ceb-1b3b40228eeb)
-    (at 37.42125 105.8815)
+    (at 97.56875 163.195)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1586,7 +1586,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 3a1c7e29-d089-4d49-b525-5a7d29efbd8c)
-    (at 71.92125 105.8815)
+    (at 234.15625 163.5125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1687,7 +1687,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 3d1ab384-29e1-499b-9969-94f4b0abb6b9)
-    (at 66.17125 109.2315)
+    (at 164.30625 182.245)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1737,7 +1737,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 3d20a28d-2e8d-4832-bdae-377f4a86f437)
-    (at 71.92125 115.9315)
+    (at 302.41875 144.145)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1787,7 +1787,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 3e55314d-b5d7-45d9-8116-d970a0dd5da7)
-    (at 164.8275 67.18625)
+    (at 111.91875 143.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1837,7 +1837,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 400db536-d3d2-4a16-b211-a27112639239)
-    (at 83.42125 105.8815)
+    (at 207.16875 145.25625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -1887,7 +1887,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 43ef5293-826a-4e3b-b7f6-3523e7b5e1c0)
-    (at 54.67125 109.2315)
+    (at 150.01875 142.875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2177,7 +2177,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 4e127e09-57d1-4fba-96d2-53747f81123b)
-    (at 66.17125 102.5315)
+    (at 292.1 163.5125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2278,7 +2278,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 517b1715-f65d-43d1-b0a8-54a00fa3ba02)
-    (at 66.17125 115.9315)
+    (at 95.1875 218.28125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2328,7 +2328,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 51dc2319-57d1-4029-b8f5-446ba9b3f50a)
-    (at 170.5775 77.23625)
+    (at 300.83125 225.425)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2429,7 +2429,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 594d15c1-34f9-443f-9776-1be9c9253f11)
-    (at 25.92125 112.5815)
+    (at 227.0125 143.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2657,7 +2657,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 65d42876-540a-4ea9-b764-0cc7109bb8ae)
-    (at 31.67125 112.5815)
+    (at 96.04375 200.81875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2834,7 +2834,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 706d9d3e-21c6-46d5-9576-9fb54a0f41bf)
-    (at 31.67125 105.8815)
+    (at 121.44375 163.5125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2884,7 +2884,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 70e09d4f-4934-4ee7-9e77-6dee6afef415)
-    (at 60.42125 105.8815)
+    (at 187.325 146.84375)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -2934,7 +2934,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 7239041b-7da2-46ad-a727-6ab97124208a)
-    (at 48.92125 112.5815)
+    (at 185.00625 181.76875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -3086,7 +3086,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 7b1b198a-13c7-44d9-b2a5-5c7da0efcea5)
-    (at 71.92125 112.5815)
+    (at 252.4125 219.86875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -3187,7 +3187,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 821a7d33-d95a-4b42-a2b6-42344452e7ff)
-    (at 170.5775 63.83625)
+    (at 146.84375 219.075)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -3288,7 +3288,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 853df1ae-b439-4973-9259-3de5ed6ba0b7)
-    (at 137.4775 114.77625)
+    (at 92.075 143.66875 180)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -3325,9 +3325,9 @@
     (fp_line (start 0.25 -0.4) (end 0.25 0.4) (layer "F.Fab") (width 0.1) (tstamp d3a3ed51-2b65-43c2-9e45-63c61b375cdd))
     (fp_line (start -1.4 -0.9) (end 1.4 -0.9) (layer "F.Fab") (width 0.1) (tstamp f57c280b-1c39-4aee-92cd-25dda5acaa5f))
     (fp_line (start 1.4 -0.9) (end 1.4 0.9) (layer "F.Fab") (width 0.1) (tstamp fa461549-75df-449d-ab36-1797d524f60a))
-    (pad "1" smd rect (at -1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "1" smd rect (at -1.65 0 180) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "Row 0") (pinfunction "K") (pintype "passive") (tstamp 8b97c9ec-2270-45bc-ba57-69b418ef3c38))
-    (pad "2" smd rect (at 1.65 0) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
+    (pad "2" smd rect (at 1.65 0 180) (size 0.9 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "Net-(D1-Pad2)") (pinfunction "A") (pintype "passive") (tstamp b901f6e4-144e-4221-9969-72690183e1c2))
     (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
@@ -3395,7 +3395,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 86d46777-ccb9-4a0b-ac0f-2dd0066579bc)
-    (at 164.8275 63.83625)
+    (at 203.99375 182.5625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -3547,7 +3547,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 8ac2128c-9404-437d-98ef-db93ca69794e)
-    (at 54.67125 112.5815)
+    (at 277.8125 182.5625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -3648,7 +3648,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 8e6f7117-3854-4621-a801-16b360512a0a)
-    (at 164.8275 73.88625)
+    (at 126.20625 209.55)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -3785,7 +3785,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 948ee776-516d-4278-bfbd-1f20b5540bcb)
-    (at 164.8275 60.48625)
+    (at 125.4125 218.28125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4024,7 +4024,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 9a375d61-0b80-48d6-ade7-d2b900b4d7e6)
-    (at 164.8275 70.53625)
+    (at 278.60625 207.16875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4110,7 +4110,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp 9f4e34b4-54fb-4e2a-879b-4089b08187fe)
-    (at 37.42125 115.9315)
+    (at 331.7875 161.925)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4160,7 +4160,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp a07b879f-b6e6-4cab-9092-04ab3a610363)
-    (at 66.17125 105.8815)
+    (at 350.04375 143.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4210,7 +4210,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp a8a9caa8-0d5c-4869-b36c-f4467d0d3291)
-    (at 37.42125 112.5815)
+    (at 173.83125 200.025)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4260,7 +4260,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp aae54a1f-8cd3-4a4f-90c9-2871495029c2)
-    (at 43.17125 115.9315)
+    (at 230.125 199.23125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4310,7 +4310,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp ab475880-41b2-4ed0-99fb-8ae5d9f68162)
-    (at 31.67125 115.9315)
+    (at 168.275 143.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4462,7 +4462,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp af49fb8c-6abc-4cbd-a919-9b616c3e53c9)
-    (at 77.67125 112.5815)
+    (at 124.61875 180.975)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4512,7 +4512,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp b207b432-5fcb-4d63-9bb3-95917d14298b)
-    (at 31.67125 109.2315)
+    (at 138.1125 162.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4649,7 +4649,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tedit 5A02FE24) (tstamp b44e1185-341a-4b5f-b1c9-0112e0a7cd6c)
-    (at 159.7025 201.295)
+    (at 178.7525 201.295)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4700,7 +4700,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp b592ff5b-2199-498e-97a8-73ccaa3cf25e)
-    (at 170.5775 60.48625)
+    (at 112.7125 183.35625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4750,7 +4750,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp b6e4095f-1502-4315-bee5-4370a713f83a)
-    (at 60.42125 115.9315)
+    (at 198.4375 163.5125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -4807,7 +4807,7 @@
     (property "Sheetname" "")
     (path "/8575f660-b3f4-47df-8649-11de113857af")
     (attr through_hole)
-    (fp_text reference "MX33" (at -122.39625 -62.38875) (layer "F.SilkS")
+    (fp_text reference "MX33" (at 49.32625 -44.27025) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3a99de2a-e70d-44e5-a2bb-5b556e5b7385)
     )
@@ -4815,7 +4815,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0fef78d4-ddc0-4c89-a75f-2e441f8ac798)
     )
-    (fp_text user "${REFERENCE}" (at -122.39625 -62.38875) (layer "F.Fab")
+    (fp_text user "${REFERENCE}" (at 49.32625 -44.27025) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3c1ada44-bc0b-43bd-9048-a1d2dcb76065)
     )
@@ -5076,7 +5076,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp c463fb54-aafd-470f-a56d-ab46fe1303cd)
-    (at 71.92125 102.5315)
+    (at 246.0625 144.145)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5126,7 +5126,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp c627c823-7dc3-4acd-82ce-e78c4c90aca5)
-    (at 54.67125 102.5315)
+    (at 311.94375 218.28125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5176,7 +5176,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp c6f16ee9-1ec5-470f-b28d-af800721d5e1)
-    (at 77.67125 109.2315)
+    (at 160.3375 219.86875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5226,7 +5226,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp c80f5a7f-e575-426c-bbbe-42e2dae4f161)
-    (at 48.92125 105.8815)
+    (at 342.9 200.025)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5327,7 +5327,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp cf4191fc-197f-471a-9ee8-be578dca33a7)
-    (at 25.92125 105.8815)
+    (at 130.96875 143.66875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5377,7 +5377,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp cf4489bb-e9c1-4620-b1cd-01bfdb366221)
-    (at 25.92125 102.5315)
+    (at 334.9625 219.075)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5478,7 +5478,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp d606cdf0-8a21-4402-9dcb-43d1e9d314a3)
-    (at 25.92125 115.9315)
+    (at 136.525 200.81875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5528,7 +5528,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp d8a4d511-2385-4242-89cb-b55aec362031)
-    (at 43.17125 102.5315)
+    (at 288.13125 200.81875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5578,7 +5578,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp d98f3746-d5eb-432f-8ee4-a0c7a4b33f44)
-    (at 66.17125 112.5815)
+    (at 296.8625 180.975)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5781,7 +5781,7 @@
 
   (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" (layer "F.Cu")
     (tedit 5A02FE24) (tstamp e54fe44c-a3a3-4b7a-a001-e61e52cddc5c)
-    (at 178.7525 201.295)
+    (at 159.7025 201.295)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5832,7 +5832,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp e7b488f6-da19-4cb8-bb6b-7965107b1c99)
-    (at 43.17125 105.8815)
+    (at 192.88125 200.81875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5882,7 +5882,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp e92754d6-e11a-46fe-8fae-34fa6bfe0758)
-    (at 71.92125 109.2315)
+    (at 257.96875 180.975)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -5983,7 +5983,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp ebd6f881-b186-488d-a2e7-2036a29ccabb)
-    (at 43.17125 109.2315)
+    (at 334.9625 182.5625)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -6084,7 +6084,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp eff63d6c-0979-4517-9402-12f20b083ca2)
-    (at 170.5775 73.88625)
+    (at 221.45625 205.58125)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -6185,7 +6185,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp f638ad81-2080-4bfd-ae3b-9c792577dd92)
-    (at 37.42125 109.2315)
+    (at 178.59375 162.71875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -6235,7 +6235,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp f63dd194-dda2-4da6-9bca-ad56fc542cb5)
-    (at 60.42125 109.2315)
+    (at 144.4625 181.76875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -6285,7 +6285,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp f71cd73d-ec99-4977-b3f0-2f85e9c5e305)
-    (at 54.67125 105.8815)
+    (at 357.98125 219.86875)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
@@ -6509,7 +6509,7 @@
 
   (footprint "Diode_SMD:D_SOD-123" (layer "F.Cu")
     (tedit 58645DC7) (tstamp fef1180c-3ff3-4268-abf1-6b772c0ec51a)
-    (at 37.42125 102.5315)
+    (at 282.575 144.145)
     (descr "SOD-123")
     (tags "SOD-123")
     (property "Sheetfile" "staggered-keyboard.kicad_sch")
